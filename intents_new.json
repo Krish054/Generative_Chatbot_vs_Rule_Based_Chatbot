@@ -255,40 +255,5 @@
       ],
       "responses": ["external environmental impact"]
     },
-    {
-      "tag": "Greetings",
-      "patterns": [
-        "How are you",
-        "Whats up",
-        "How you doing",
-        "Are you fine?",
-        "How do you do"
-      ],
-      "responses": ["I am feeling great. Hope you are doing good as well :)"]
-    },
-    {
-      "tag": "Purpose",
-      "patterns": [
-        "Who are you",
-        "What do you do",
-        "What can you do",
-        "How can you help me"
-      ],
-      "responses": [
-        "I am a chatbot designed to answer questions from a subject's course handout. So feel free to ask me!"
-      ]
-    },
-    {
-      "tag": "Thank you",
-      "patterns": [
-        "Okay",
-        "Okay thanks",
-        "Thank you",
-        "thanks",
-        "Thank u",
-        "Appreciate it"
-      ],
-      "responses": ["Glad I could help!"]
-    }
   ]
 }
