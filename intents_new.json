@@ -1,0 +1,294 @@
+{
+  "intents": [
+    {
+      "tag": "570fc4805ab6b81900390fa7",
+      "patterns": ["What number was dell on the Fortune 500 list until 2014?"],
+      "responses": ["51"]
+    },
+    {
+      "tag": "570fc65b80d9841400ab366b",
+      "patterns": ["What market did Dell ignore at first?"],
+      "responses": ["consumer market"]
+    },
+    {
+      "tag": "570fc6df5ab6b81900390fbb",
+      "patterns": ["What sales model did Dell use for a long time?"],
+      "responses": ["direct"]
+    },
+    {
+      "tag": "570fc7d35ab6b81900390fcd",
+      "patterns": ["What industry was getting smaller?"],
+      "responses": ["PC"]
+    },
+    {
+      "tag": "570fc88e80d9841400ab367d",
+      "patterns": [
+        "Which of Dell's processes handles PC assembly, testing, and quality control?"
+      ],
+      "responses": ["manufacturing"]
+    },
+    {
+      "tag": "570fc93d5ab6b81900390fd7",
+      "patterns": [
+        "What type of Dell media has appeared on TV, on the internet, and in magazines?"
+      ],
+      "responses": ["advertisements"]
+    },
+    {
+      "tag": "570fc9cd5ab6b81900390fe1",
+      "patterns": ["What year did Dell make an agreement with Officeworks?"],
+      "responses": ["2008"]
+    },
+    {
+      "tag": "570fca635ab6b81900390ff5",
+      "patterns": [
+        "What department did Dell launch an internal investigation on?"
+      ],
+      "responses": ["accounting"]
+    },
+    {
+      "tag": "570fcb315ab6b81900390fff",
+      "patterns": ["What decade did Dell begin to sell things other than PCs?"],
+      "responses": ["1990s"]
+    },
+    {
+      "tag": "570fcc155ab6b81900391009",
+      "patterns": ["What market made up the majority of Dell's sales?"],
+      "responses": ["PC"]
+    },
+    {
+      "tag": "570fccd080d9841400ab3687",
+      "patterns": [
+        "What decade did Dell's manufacturing process become less efficient?"
+      ],
+      "responses": ["2000s"]
+    },
+    {
+      "tag": "570fcd6d5ab6b8190039101e",
+      "patterns": [
+        "What hedge fund group was pressuring EMC into restructuring?"
+      ],
+      "responses": ["Elliott Management"]
+    },
+    {
+      "tag": "570fcdfc5ab6b81900391025",
+      "patterns": ["In what foreign country did Dell open plants in 1995?"],
+      "responses": ["Malaysia"]
+    },
+    {
+      "tag": "570fce815ab6b8190039102d",
+      "patterns": ["Who is the founder of Dell?"],
+      "responses": ["Michael Dell"]
+    },
+    {
+      "tag": "570fcf3e80d9841400ab3691",
+      "patterns": [
+        "What decade did Dell sell electronics through big box stores?"
+      ],
+      "responses": ["1990s"]
+    },
+    {
+      "tag": "570fcfe65ab6b81900391037",
+      "patterns": ["What was Dell the first IT company to establish?"],
+      "responses": ["product-recycling goal"]
+    },
+    {
+      "tag": "570fd09a80d9841400ab36a5",
+      "patterns": [
+        "What decade did Dell switch to PSUs and boards that had differently wired connectors?"
+      ],
+      "responses": ["1990s"]
+    },
+    {
+      "tag": "570fd1685ab6b81900391041",
+      "patterns": ["When did Michael Dell found his company?"],
+      "responses": ["1984"]
+    },
+    {
+      "tag": "570fd1ed5ab6b8190039104b",
+      "patterns": ["What did Dell enjoy from 1997 to 2004?"],
+      "responses": ["steady growth"]
+    },
+    {
+      "tag": "570fd2995ab6b81900391055",
+      "patterns": ["What did Dell rely on that gave it a reputation?"],
+      "responses": ["supply chain efficiencies"]
+    },
+    {
+      "tag": "570fd59c5ab6b8190039105d",
+      "patterns": ["What was the name of Dell's change campaign?"],
+      "responses": ["Dell 2.0"]
+    },
+    {
+      "tag": "570fd63b80d9841400ab36ad",
+      "patterns": ["How much of Dell's revenue was its PC division?"],
+      "responses": ["half"]
+    },
+    {
+      "tag": "570fd7315ab6b81900391065",
+      "patterns": ["What city is Dell's New Hampshire facility in?"],
+      "responses": ["Nashua"]
+    },
+    {
+      "tag": "570fd82180d9841400ab36bf",
+      "patterns": ["What city is Dell's Texas facility in?"],
+      "responses": ["Austin"]
+    },
+    {
+      "tag": "570fd8fd80d9841400ab36d3",
+      "patterns": ["What emissions did Dell strive to reduce?"],
+      "responses": ["greenhouse gas"]
+    },
+    {
+      "tag": "570fdb9180d9841400ab36db",
+      "patterns": [
+        "What year did Dell come under fire from the Taiwanese Consumer Protection Commission?"
+      ],
+      "responses": ["2009"]
+    },
+    {
+      "tag": "570fdcbb80d9841400ab36e3",
+      "patterns": ["Innovations in what kind of management is Dell known for?"],
+      "responses": ["supply chain"]
+    },
+    {
+      "tag": "570fdda25ab6b8190039107f",
+      "patterns": ["What year did Dell plan to sell PCs at retailers?"],
+      "responses": ["1993"]
+    },
+    {
+      "tag": "570fde875ab6b81900391087",
+      "patterns": [
+        "What year did Michael Dell bring in Lee Walker to the company?"
+      ],
+      "responses": ["1986"]
+    },
+    {
+      "tag": "570fdf9d80d9841400ab36ed",
+      "patterns": ["What country's PC market was Dell reliant on?"],
+      "responses": ["U.S"]
+    },
+    {
+      "tag": "570fe1765ab6b81900391090",
+      "patterns": [
+        "Which division of Dell were unsuccessful in developing mobile devices?"
+      ],
+      "responses": ["mobility"]
+    },
+    {
+      "tag": "570fe26380d9841400ab36f5",
+      "patterns": ["What did Dell have a poor reputation for?"],
+      "responses": ["customer service"]
+    },
+    {
+      "tag": "570fe33980d9841400ab36fd",
+      "patterns": [
+        "What year did the Blackstone Group express interest in acquiring Dell?"
+      ],
+      "responses": ["2013"]
+    },
+    {
+      "tag": "570fe3fb80d9841400ab3705",
+      "patterns": [
+        "What year did Dell close its largest Canadian call center?"
+      ],
+      "responses": ["2008"]
+    },
+    {
+      "tag": "570fe5335ab6b81900391099",
+      "patterns": [
+        "What type of computing is the combined effort of EMC and Dell slated to address?"
+      ],
+      "responses": ["private cloud computing"]
+    },
+    {
+      "tag": "570fe6145ab6b819003910a2",
+      "patterns": ["What was the value of Dell's buyout deal?"],
+      "responses": ["$24.4 billion"]
+    },
+    {
+      "tag": "570fe6f15ab6b819003910a9",
+      "patterns": ["How much space did Dell lease in Texas?"],
+      "responses": ["80,000 square feet"]
+    },
+    {
+      "tag": "570fe7a580d9841400ab370d",
+      "patterns": ["What Texas city was Dell's headquarters previously in?"],
+      "responses": ["Austin"]
+    },
+    {
+      "tag": "570fe8555ab6b819003910bd",
+      "patterns": ["For what market did Dell make computers for in Ireland?"],
+      "responses": ["EMEA"]
+    },
+    {
+      "tag": "570fe8ff5ab6b819003910c7",
+      "patterns": ["What kind of hardware support does Dell provide?"],
+      "responses": ["multivendor"]
+    },
+    {
+      "tag": "570fe9ff5ab6b819003910cd",
+      "patterns": ["What is the alternate name for the Dell Solution Station?"],
+      "responses": ["Dell on Call"]
+    },
+    {
+      "tag": "570fea465ab6b819003910d5",
+      "patterns": ["What year did Dell lose its tech lead to Hewlett-Packard?"],
+      "responses": ["2006"]
+    },
+    {
+      "tag": "570fead580d9841400ab3721",
+      "patterns": [
+        "What toxic chemical did Dell set to eliminate from its products?"
+      ],
+      "responses": ["polyvinyl chloride"]
+    },
+    {
+      "tag": "570feb3480d9841400ab3729",
+      "patterns": ["What percentage of Dell support calls were transferred?"],
+      "responses": ["45%"]
+    },
+    {
+      "tag": "570feb9480d9841400ab372f",
+      "patterns": [
+        "What does Dell aim to reduce by creating energy efficient products?"
+      ],
+      "responses": ["external environmental impact"]
+    },
+    {
+      "tag": "Greetings",
+      "patterns": [
+        "How are you",
+        "Whats up",
+        "How you doing",
+        "Are you fine?",
+        "How do you do"
+      ],
+      "responses": ["I am feeling great. Hope you are doing good as well :)"]
+    },
+    {
+      "tag": "Purpose",
+      "patterns": [
+        "Who are you",
+        "What do you do",
+        "What can you do",
+        "How can you help me"
+      ],
+      "responses": [
+        "I am a chatbot designed to answer questions from a subject's course handout. So feel free to ask me!"
+      ]
+    },
+    {
+      "tag": "Thank you",
+      "patterns": [
+        "Okay",
+        "Okay thanks",
+        "Thank you",
+        "thanks",
+        "Thank u",
+        "Appreciate it"
+      ],
+      "responses": ["Glad I could help!"]
+    }
+  ]
+}
